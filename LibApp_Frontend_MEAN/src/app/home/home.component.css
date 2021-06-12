@@ -1,0 +1,18 @@
+body{
+  background-image: url('https://www.detroitlabs.com/wp-content/uploads/2018/02/alfons-morales-YLSwjSy7stw-unsplash.jpg');
+}
+
+h1{
+  padding: 1%;
+  padding-top: 2%;
+  text-align: center;
+}
+/* h4{
+  padding-left: 5%;
+  color: ivory;
+} */
+h5{
+  color: ivory;
+  padding:4%;
+  text-align: center;
+}
